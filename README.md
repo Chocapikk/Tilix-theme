@@ -17,7 +17,7 @@ A minimalistic and luxurious custom theme for the Tilix terminal emulator, featu
    Move the theme JSON file into the Tilix themes directory:
    ```bash
    mkdir -p ~/.config/tilix/schemes
-   cp tilix/luxe-orange.json ~/.config/tilix/schemes/
+   cp luxe-orange.json ~/.config/tilix/schemes/
    ```
 
 3. **Restart Tilix**:
